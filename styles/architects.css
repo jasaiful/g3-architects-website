@@ -281,6 +281,10 @@ main {
         max-width: 300px;
     }
 
+    .footer-section {
+        width: 100%;
+    }
+
 }
 
 
